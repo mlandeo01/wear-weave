@@ -52,6 +52,13 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				// Fashion color palette
+				fashion: {
+					rose: 'hsl(var(--fashion-rose))',
+					gold: 'hsl(var(--fashion-gold))',
+					sage: 'hsl(var(--fashion-sage))',
+					lavender: 'hsl(var(--fashion-lavender))'
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
